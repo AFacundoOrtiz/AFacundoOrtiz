@@ -1,4 +1,4 @@
-<p align="right">[ 🇬🇧 View in English ](./README.md)</p>
+<p align="right"><a href="./README.md">🇬🇧 View in English</a></p>
 
 # 🚀 Sobre Mí
 
