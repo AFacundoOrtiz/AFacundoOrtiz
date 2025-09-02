@@ -1,3 +1,5 @@
+<p align="right">[ 🇪🇸 Ver en español ](./README.ES.md)</p>
+
 # 🚀 About Me
 
 Hi! I'm Facundo, a Computer Engineering student and a passionate Backend Developer from Argentina.
@@ -11,8 +13,6 @@ I bring to the table not only the ability to write code, but also the mindset to
 ---
 
 # 🛠️ Technologies & Frameworks
-
-These are some of the technologies I've been working with:
 
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank"> 
@@ -42,15 +42,15 @@ These are some of the technologies I've been working with:
      <a href="https://jwt.io/" target="_blank">
         <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank"> 
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    </a>
+</p>
+
+---
+
+# 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=tokyonight&count_private=true" alt="Facundo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
