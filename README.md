@@ -49,8 +49,8 @@ I bring to the table not only the ability to write code, but also the mindset to
 # 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=tokyonight&count_private=true" alt="Facundo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AFacundoOrtiz&show_icons=true&theme=tokyonight&count_private=true" alt="Facundo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFacundoOrtiz&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
