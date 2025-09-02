@@ -61,7 +61,7 @@ These are some of the technologies I've been working with:
     <a href="mailto:urban12the@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="[[TU_LINKEDIN]](https://www.linkedin.com/in/facundo-ortiz-8a24b42a2/)">
+    <a href="https://www.linkedin.com/in/facundo-ortiz-8a24b42a2/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
