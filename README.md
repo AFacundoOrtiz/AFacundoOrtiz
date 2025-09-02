@@ -1,4 +1,4 @@
-[Ver en español](./README.ES.md)
+<p align="right"><a href="./README.ES.md">🇪🇸 Ver en español</a></p>
 
 # 🚀 About Me
 
