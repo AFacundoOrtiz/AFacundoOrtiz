@@ -95,7 +95,7 @@ I bring to the table not only the ability to write code, but also the mindset to
 
 ---
 
-# 📫 How to reach me
+# 📫 How to reach me & see my work
 
 <p>
     <a href="mailto:urban12the@gmail.com">
@@ -103,5 +103,8 @@ I bring to the table not only the ability to write code, but also the mindset to
     </a>
     <a href="https://www.linkedin.com/in/facundo-ortiz-8a24b42a2/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://portfolio-seven-flax-qjzdj6umgi.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-Visitar_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
 </p>
