@@ -105,6 +105,9 @@ I bring to the table not only the ability to write code, but also the mindset to
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://portfolio-seven-flax-qjzdj6umgi.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-Visitar_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="./CV_Facundo_Ortiz.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/CV-Download_PDF-ff5252?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
     </a>
 </p>
