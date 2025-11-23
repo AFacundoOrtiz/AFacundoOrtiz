@@ -50,6 +50,12 @@ Aporto no solo la habilidad de escribir código, sino también la mentalidad par
     <a href="https://expressjs.com/" target="_blank">
         <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
     </a>
+    <a href="https://www.python.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+    </a>
 </p>
 
 ### Bases de Datos
@@ -68,6 +74,16 @@ Aporto no solo la habilidad de escribir código, sino también la mentalidad par
     </a>
 </p>
 
+### Cloud & DevOps
+<p align="left">
+    <a href="https://cloud.google.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    </a>
+</p>
+
 ### Herramientas y Metodologías
 <p align="left">
     <a href="https://git-scm.com/" target="_blank"> 
@@ -75,9 +91,6 @@ Aporto no solo la habilidad de escribir código, sino también la mentalidad par
     </a>
     <a href="https://github.com/" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
     </a>
     <a href="https://www.scrum.org/" target="_blank">
         <img src="https://img.shields.io/badge/Scrum-0096D6?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum"/>
@@ -105,6 +118,9 @@ Aporto no solo la habilidad de escribir código, sino también la mentalidad par
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://portfolio-seven-flax-qjzdj6umgi.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-Visitar_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Portafolio-Visitar_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="./CV_Facundo_Ortiz.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/CV-Descargar_PDF-ff5252?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
     </a>
 </p>
