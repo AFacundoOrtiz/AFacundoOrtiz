@@ -102,7 +102,7 @@ Aporto no solo la habilidad de escribir código, sino también la mentalidad par
 # 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AFacundoOrtiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="height: 180px;" alt="Facundo's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AFacundoOrtiz&show_icons=true&theme=dracula" style="height: 180px;" alt="Facundo's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFacundoOrtiz&layout=compact&langs_count=8&theme=dracula" style="height: 180px; margin-left: 10px;" alt="Most Used Languages"/>
 </p>
 
