@@ -2,7 +2,7 @@
 
 # 🚀 About Me
 
-Hi! I'm Facundo, a Computer Engineering student and a passionate Backend Developer from Argentina.
+Hi! I'm Facundo, a Computer Engineering student and a passionate Fullstack Developer from Argentina.
 
 I'm driven by the challenge of building the robust architecture and clean business logic that power digital products. My journey into technology is fueled by a passion for solving complex problems through clean, efficient, and secure code.
 
