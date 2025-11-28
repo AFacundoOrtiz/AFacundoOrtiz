@@ -2,7 +2,7 @@
 
 # 🚀 Sobre Mí
 
-¡Hola! Soy Facundo, un estudiante de Ingeniería en Computación y un apasionado Desarrollador Backend de Argentina.
+¡Hola! Soy Facundo, un estudiante de Ingeniería en Computación y un apasionado Desarrollador Fullstack de Argentina.
 
 Me impulsa el desafío de construir la arquitectura robusta y la lógica de negocio limpia que dan vida a los productos digitales. Mi camino en la tecnología está motivado por la pasión de resolver problemas complejos a través de código limpio, eficiente y seguro.
 
