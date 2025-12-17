@@ -120,7 +120,7 @@ I bring to the table not only the ability to write code, but also the mindset to
     <a href="https://portfolio-seven-flax-qjzdj6umgi.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
-    <a href="./CV_Facundo_Ortiz.pdf" target="_blank">
+    <a href="./Facundo_Ortiz_CV.pdf" target="_blank">
         <img src="https://img.shields.io/badge/CV-Download_PDF-ff5252?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
     </a>
 </p>
