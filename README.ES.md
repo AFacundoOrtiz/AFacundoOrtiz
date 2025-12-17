@@ -120,7 +120,7 @@ Aporto no solo la habilidad de escribir código, sino también la mentalidad par
     <a href="https://portfolio-seven-flax-qjzdj6umgi.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portafolio-Visitar_Web-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
-    <a href="./CV_Facundo_Ortiz.pdf" target="_blank">
+    <a href="./Facundo_Ortiz_CV.pdf" target="_blank">
         <img src="https://img.shields.io/badge/CV-Descargar_PDF-ff5252?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
     </a>
 </p>
